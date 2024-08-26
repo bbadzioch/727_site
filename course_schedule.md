@@ -12,4 +12,14 @@ layout: lecture_notes
 {% include lecture_notes_table.html chapter="33. Absorbing Markov chains" %}
 {% include lecture_notes_table.html chapter="34. Test Markov chains" %}
 
+<br/>
+
 ### Homework 1
+
+
+
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
