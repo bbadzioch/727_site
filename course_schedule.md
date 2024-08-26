@@ -20,7 +20,14 @@ layout: lecture_notes
 
 <br/>
 
-### Homework 1
+### Weekly Digest 1 (due: Monday, Sept. 1, 5:00 PM)
+
+Complete the weekly digest using the following web form (UBIT login required):
+
+[https://forms.office.com/r/90CvPxuiKy](https://forms.office.com/r/90CvPxuiKy)
+
+
+
 
 
 
