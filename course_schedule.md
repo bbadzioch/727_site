@@ -9,7 +9,7 @@ layout: lecture_notes
 
 ## Week 1 (Aug. 26 - Sep. 1)
 
-{% include lecture_notes_table.html title="33. Absorbing Markov chains" %}
+{% include lecture_notes_table.html chapter="33. Absorbing Markov chains" %}
 
 
 ### Homework 1
