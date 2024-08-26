@@ -110,7 +110,7 @@ chapters:
 
 ---
 
-# Lecture notes
+# Course Schedule
 
 <br/>
 
