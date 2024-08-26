@@ -67,7 +67,7 @@ that cover this material. For example:
 
 ## Homework
 
-Homework problems will be assigned periodically. Submitting homework is optional.
+Optional homework problems will be assigned periodically.
 
 
 ## Weekly digests
