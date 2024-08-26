@@ -1,0 +1,31 @@
+<style>
+    table.lecture-notes td {
+        padding-left: 10px;
+        padding-right: 10px;
+    }
+
+    table.lecture-notes tr:hover {
+        background-color: rgb(237, 245, 225);
+    }
+</style>
+
+<table class="lecture-notes">
+    {% for chapter in page.chapters %}
+    {% assign ch_num = chapter.title | split: "." | first %}
+    <tr>
+        <td>
+            <b>{{chapter.title}}</b>
+        </td>
+        <td>
+            <a href="{{site.baseurl}}/assets/notes/mth461_notes_{{ch_num}}.pdf" target="_blank">blank notes</a>
+        </td>
+
+        <td>
+            {% if chapter.complete %}
+            <a href="{{site.baseurl}}/assets/annotated_notes/mth461_annotated_notes_{{ch_num}}.pdf" target="_blank">annotated notes</a>
+            {% endif %}
+        </td>
+
+    </tr>
+    {% endfor %}
+</table>
