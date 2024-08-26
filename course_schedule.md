@@ -9,8 +9,12 @@ layout: lecture_notes
 
 ## Week 1 (Aug. 26 - Sep. 1)
 
-{% include lecture_notes_table.html chapter="33. Absorbing Markov chains" %}
-{% include lecture_notes_table.html chapter="34. Test Markov chains" %}
+{% include lecture_notes_table.html chapter="1. Review: Homotopies" %}
+{% include lecture_notes_table.html chapter="2. Review: CW Complexes" %}
+{% include lecture_notes_table.html chapter="3. Higher Homotopy Groups" %}
+{% include lecture_notes_table.html chapter="4. Dependence on The Basepoint" %}
+
+
 
 <br/>
 
@@ -18,6 +22,7 @@ layout: lecture_notes
 
 
 
+<br/>
 <br/>
 <br/>
 <br/>
