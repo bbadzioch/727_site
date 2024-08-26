@@ -114,4 +114,6 @@ chapters:
 
 <br/>
 
-{% include lecture_notes_table.html %}
+## Week 1 (Aug. 26 - Sep. 1)
+
+
