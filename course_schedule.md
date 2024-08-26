@@ -9,7 +9,7 @@ layout: lecture_notes
 
 ## Week 1 (Aug. 26 - Sep. 1)
 
-### Lecture notes
+#### Lecture notes
 
 {% include lecture_notes_table.html chapter="1. Review: Homotopies" %}
 {% include lecture_notes_table.html chapter="2. Review: CW Complexes" %}
@@ -20,7 +20,7 @@ layout: lecture_notes
 
 <br/>
 
-### Weekly Digest 1 (due: Monday, Sept. 1, 5:00 PM)
+#### Weekly Digest 1 (due: Monday, Sept. 1, 5:00 PM)
 
 Complete the weekly digest using the following web form (UBIT login required):
 
