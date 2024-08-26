@@ -117,3 +117,5 @@ chapters:
 ## Week 1 (Aug. 26 - Sep. 1)
 
 
+
+### Homework 1
