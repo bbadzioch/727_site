@@ -47,10 +47,14 @@ covered in MTH 628.
 The goal of this course is to introduce some more standard material in homotopy theory:
 
 * Higher homotopy groups
+* Excision and Freudenthal suspension theorem
+* Eilenberg-MacLane spaces
 * Fibrations and fiber bundles
 * Cofibrations
 * Weak equivalences
-* Spectral sequences
+* CW approximation
+* Hurewicz theorem
+* Serre spectral sequence
 
 ## Textbook
 
