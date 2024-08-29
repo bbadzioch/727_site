@@ -14,8 +14,6 @@ layout: lecture_notes
 {% include lecture_notes_table.html chapter="1. Review: Homotopies" %}
 {% include lecture_notes_table.html chapter="2. Review: CW Complexes" %}
 {% include lecture_notes_table.html chapter="3. Higher Homotopy Groups" %}
-{% include lecture_notes_table.html chapter="4. Dependence on The Basepoint" %}
-
 
 
 <br/>
@@ -26,6 +24,18 @@ Complete the weekly digest using the following web form (UBIT login required):
 
 [https://forms.office.com/r/90CvPxuiKy](https://forms.office.com/r/90CvPxuiKy)
 
+
+
+<br/>
+
+## Week 2 (Sep. 2 - Sep. 8)
+
+#### Lecture notes
+
+
+{% include lecture_notes_table.html chapter="4. Dependence on The Basepoint" %}
+{% include lecture_notes_table.html chapter="5. Some Computations" %}
+{% include lecture_notes_table.html chapter="6. Relative Homotopy Groups" %}
 
 
 
