@@ -50,6 +50,8 @@ Complete the weekly digest using the following web form (UBIT login required):
 
 ## Week 3 (Sep. 9 - Sep. 15)
 
+<br/>
+
 #### **Lecture notes**
 
 {% include lecture_notes_table.html chapter="6. Relative Homotopy Groups" %}
