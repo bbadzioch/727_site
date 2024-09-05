@@ -18,7 +18,7 @@ layout: lecture_notes
 
 <br/>
 
-#### Weekly Digest 1 (due: Monday, Sept. 1, 5:00 PM)
+#### Weekly Digest 1 (due: Monday, Sept. 2, 5:00 PM)
 
 Complete the weekly digest using the following web form (UBIT login required):
 
@@ -35,11 +35,27 @@ Complete the weekly digest using the following web form (UBIT login required):
 
 {% include lecture_notes_table.html chapter="4. Dependence on The Basepoint" %}
 {% include lecture_notes_table.html chapter="5. Some Computations" %}
+
+
+#### Weekly Digest 2 (due: Monday, Sept. 9, 5:00 PM)
+
+Complete the weekly digest using the following web form (UBIT login required):
+
+[https://forms.office.com/r/aTSy62eHcm](https://forms.office.com/r/aTSy62eHcm)
+
+
+#### Homework 1 (due: in class, Thursday, Sept. 19)
+
+<a href="/assets/homework/hw_1.pdf" markdown="0">Homework 1 problems.</a>
+
+
+
+## Week 3 (Sep. 9 - Sep. 15)
+
+#### Lecture notes
+
 {% include lecture_notes_table.html chapter="6. Relative Homotopy Groups" %}
-
-
-
-
+{% include lecture_notes_table.html chapter="7. Fibrations" %}
 
 <br/>
 <br/>
