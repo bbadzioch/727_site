@@ -11,21 +11,11 @@ layout: lecture_notes
 
 <br/>
 
-#### Lecture notes
+#### **Lecture notes**
 
 {% include lecture_notes_table.html chapter="1. Review: Homotopies" %}
 {% include lecture_notes_table.html chapter="2. Review: CW Complexes" %}
 {% include lecture_notes_table.html chapter="3. Higher Homotopy Groups" %}
-
-
-<br/>
-
-#### Weekly Digest 1 (due: Monday, Sept. 2, 5:00 PM)
-
-Complete the weekly digest using the following web form (UBIT login required):
-
-[https://forms.office.com/r/90CvPxuiKy](https://forms.office.com/r/90CvPxuiKy)
-
 
 
 <br/>
