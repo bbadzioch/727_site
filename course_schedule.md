@@ -32,14 +32,6 @@ layout: lecture_notes
 
 <br/>
 
-#### **Weekly Digest 2 (due: Monday, Sept. 9, 5:00 PM)**
-
-Complete the weekly digest using the following web form (UBIT login required):
-
-[https://forms.office.com/r/aTSy62eHcm](https://forms.office.com/r/aTSy62eHcm)
-
-<br/>
-
 
 #### **Homework 1 (due: in class, Thursday, Sept. 19)**
 
@@ -56,6 +48,29 @@ Complete the weekly digest using the following web form (UBIT login required):
 
 {% include lecture_notes_table.html chapter="6. Relative Homotopy Groups" %}
 {% include lecture_notes_table.html chapter="7. Fibrations" %}
+
+
+
+<br/>
+
+## Week 4 (Sep. 16 - Sep. 22)
+
+<br/>
+
+#### **Lecture notes**
+
+{% include lecture_notes_table.html chapter="8. From Maps to Fibrations" %}
+
+<br/>
+
+#### **Weekly Digest 3 (due: Monday, Sept. 16, 5:00 PM)**
+
+Complete the weekly digest using the following web form (UBIT login required):
+
+[https://forms.office.com/r/z6hULUDc13](https://forms.office.com/r/z6hULUDc13)
+
+
+
 
 <br/>
 <br/>
