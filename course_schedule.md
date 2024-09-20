@@ -33,7 +33,7 @@ layout: lecture_notes
 <br/>
 
 
-#### **Homework 1 (due: in class, Thursday, Sept. 19)**
+#### **Homework 1 (due: Thursday, Sept. 19)**
 
 <a href="/assets/homework/hw_1.pdf" markdown="0">Homework 1 problems.</a>
 
@@ -47,7 +47,7 @@ layout: lecture_notes
 #### **Lecture notes**
 
 {% include lecture_notes_table.html chapter="6. Relative Homotopy Groups" %}
-{% include lecture_notes_table.html chapter="7. Fibrations" %}
+
 
 
 
@@ -59,16 +59,36 @@ layout: lecture_notes
 
 #### **Lecture notes**
 
-{% include lecture_notes_table.html chapter="8. From Maps to Fibrations" %}
+{% include lecture_notes_table.html chapter="7. Fibrations" %}
 
 <br/>
 
-#### **Weekly Digest 3 (due: Monday, Sept. 16, 5:00 PM)**
+
+
+## Week 5 (Sep. 2 - Sep. 8)
+
+<br/>
+
+#### **Lecture notes**
+
+{% include lecture_notes_table.html chapter="8. From Maps to Fibrations" %}
+{% include lecture_notes_table.html chapter="9. Exact Puppe Sequence" %}
+
+<br/>
+
+#### **Weekly Digest 4 (due: Monday, Sept. 23, 5:00 PM)**
 
 Complete the weekly digest using the following web form (UBIT login required):
 
-[https://forms.office.com/r/z6hULUDc13](https://forms.office.com/r/z6hULUDc13)
+[https://forms.office.com/r/4vtHQynweX](https://forms.office.com/r/4vtHQynweX)
 
+
+#### **Homework 2 (due: Thursday, Oct. 3)**
+
+<a href="/assets/homework/hw_2.pdf" markdown="0">Homework 2 problems.</a>
+
+
+<br/>
 
 
 
