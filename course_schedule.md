@@ -82,6 +82,7 @@ Complete the weekly digest using the following web form (UBIT login required):
 
 [https://forms.office.com/r/4vtHQynweX](https://forms.office.com/r/4vtHQynweX)
 
+<br/>
 
 #### **Homework 2 (due: Thursday, Oct. 3)**
 
