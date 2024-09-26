@@ -65,28 +65,41 @@ layout: lecture_notes
 
 
 
-## Week 5 (Sep. 2 - Sep. 8)
+## Week 5 (Sep. 23 - Sep. 29)
 
 <br/>
 
 #### **Lecture notes**
 
 {% include lecture_notes_table.html chapter="8. From Maps to Fibrations" %}
-{% include lecture_notes_table.html chapter="9. Exact Puppe Sequence" %}
-
-<br/>
-
-#### **Weekly Digest 4 (due: Monday, Sept. 23, 5:00 PM)**
-
-Complete the weekly digest using the following web form (UBIT login required):
-
-[https://forms.office.com/r/4vtHQynweX](https://forms.office.com/r/4vtHQynweX)
 
 <br/>
 
 #### **Homework 2 (due: Thursday, Oct. 3)**
 
 <a href="/assets/homework/hw_2.pdf" markdown="0">Homework 2 problems.</a>
+
+
+<br/>
+
+## Week 6 (Sep. 2 - Sep. 8)
+
+<br/>
+
+#### **Lecture notes**
+
+
+{% include lecture_notes_table.html chapter="9. Exact Puppe Sequence" %}
+{% include lecture_notes_table.html chapter="10. Cofibrations" %}
+{% include lecture_notes_table.html chapter="11. Excision" %}
+
+<br/>
+
+#### **Weekly Digest 5 (due: Monday, Sept. 30, 5:00 PM)**
+
+Complete the weekly digest using the following web form (UBIT login required):
+
+[https://forms.office.com/r/3ut9p90EzY](https://forms.office.com/r/3ut9p90EzY)
 
 
 <br/>
