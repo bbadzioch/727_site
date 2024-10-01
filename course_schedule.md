@@ -82,7 +82,7 @@ layout: lecture_notes
 
 <br/>
 
-## Week 6 (Sep. 2 - Sep. 8)
+## Week 6 (Sep. 30 - Oct. 6)
 
 <br/>
 
