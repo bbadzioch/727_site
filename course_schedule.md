@@ -90,19 +90,33 @@ layout: lecture_notes
 
 
 {% include lecture_notes_table.html chapter="9. Exact Puppe Sequence" %}
-{% include lecture_notes_table.html chapter="10. Cofibrations" %}
-{% include lecture_notes_table.html chapter="11. Excision" %}
+
 
 <br/>
 
-#### **Weekly Digest 5 (due: Monday, Sept. 30, 5:00 PM)**
+## Week 7 (Oct. 7 - Oct. 13)
+
+<br/>
+
+#### **Lecture notes**
+
+{% include lecture_notes_table.html chapter="10. Cofibrations" %}
+{% include lecture_notes_table.html chapter="11. Excision" %}
+{% include lecture_notes_table.html chapter="12. All Groups are Homotopy Groups" %}
+
+<br/>
+
+#### **Weekly Digest 6 (due: Monday, Oct. 7, 5:00 PM)**
 
 Complete the weekly digest using the following web form (UBIT login required):
 
-[https://forms.office.com/r/3ut9p90EzY](https://forms.office.com/r/3ut9p90EzY)
+[https://forms.office.com/r/39DwYhazyX](https://forms.office.com/r/39DwYhazyX)
 
 
 <br/>
+
+
+
 
 
 
