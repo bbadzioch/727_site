@@ -101,8 +101,6 @@ layout: lecture_notes
 #### **Lecture notes**
 
 {% include lecture_notes_table.html chapter="10. Cofibrations" %}
-{% include lecture_notes_table.html chapter="11. Excision" %}
-{% include lecture_notes_table.html chapter="12. All Groups are Homotopy Groups" %}
 
 <br/>
 
