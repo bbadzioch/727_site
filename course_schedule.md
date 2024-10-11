@@ -106,16 +106,28 @@ layout: lecture_notes
 
 <br/>
 
-#### **Weekly Digest 6 (due: Monday, Oct. 7, 5:00 PM)**
-
-Complete the weekly digest using the following web form (UBIT login required):
-
-[https://forms.office.com/r/39DwYhazyX](https://forms.office.com/r/39DwYhazyX)
-
 
 <br/>
 
+## Week 8 (Oct. 14 - Oct. 20)
 
+<br/>
+
+#### **Lecture notes**
+
+{% include lecture_notes_table.html chapter="11. Excision" %}
+{% include lecture_notes_table.html chapter="12. All Groups are Homotopy Groups" %}
+
+<br/>
+
+#### **Weekly Digest 7 (due: Wednesday, Oct. 16, 5:00 PM)**
+
+Complete the weekly digest using the following web form (UBIT login required):
+
+[https://forms.office.com/r/3vC6U8vp6w](https://forms.office.com/r/3vC6U8vp6w)
+
+
+<br/>
 
 
 
