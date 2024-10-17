@@ -114,19 +114,34 @@ layout: lecture_notes
 #### **Lecture notes**
 
 {% include lecture_notes_table.html chapter="11. Excision" %}
-{% include lecture_notes_table.html chapter="12. All Groups are Homotopy Groups" %}
 
 <br/>
 
-#### **Weekly Digest 7 (due: Wednesday, Oct. 16, 5:00 PM)**
+#### **Homework 3**
+
+<a href="/assets/homework/hw_3.pdf" markdown="0">Homework 3 problems.</a>
+
+
+
+<br/>
+
+
+## Week 9 (Oct. 21 - Oct. 27)
+
+<br/>
+
+#### **Lecture notes**
+
+{% include lecture_notes_table.html chapter="12. All Groups are Homotopy Groups" %}
+{% include lecture_notes_table.html chapter="13. Proof of the Excision Theorem" %}
+
+<br/>
+
+#### **Weekly Digest 8 (due: Monday, Oct. 21, 5:00 PM)**
 
 Complete the weekly digest using the following web form (UBIT login required):
 
-[https://forms.office.com/r/3vC6U8vp6w](https://forms.office.com/r/3vC6U8vp6w)
-
-
-<br/>
-
+[https://forms.office.com/r/Lw6ZHkvF4n](https://forms.office.com/r/Lw6ZHkvF4n)
 
 
 
