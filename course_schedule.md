@@ -149,7 +149,7 @@ layout: lecture_notes
 
 <br/>
 
-#### **Weekly Digest 8 (due: Monday, Oct. 28, 5:00 PM)**
+#### **Weekly Digest 9 (due: Monday, Oct. 28, 5:00 PM)**
 
 Complete the weekly digest using the following web form (UBIT login required):
 
