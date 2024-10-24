@@ -133,15 +133,28 @@ layout: lecture_notes
 #### **Lecture notes**
 
 {% include lecture_notes_table.html chapter="12. All Groups are Homotopy Groups" %}
-{% include lecture_notes_table.html chapter="13. Proof of the Excision Theorem" %}
+
 
 <br/>
 
-#### **Weekly Digest 8 (due: Monday, Oct. 21, 5:00 PM)**
+## Week 10 (Oct. 28 - Nov. 3)
+
+<br/>
+
+#### **Lecture notes**
+
+{% include lecture_notes_table.html chapter="13. Proof of the Excision Theorem" %}
+{% include lecture_notes_table.html chapter="14. Weak Equivalences" %}
+{% include lecture_notes_table.html chapter="15. Weak Homotopy Type" %}
+
+<br/>
+
+#### **Weekly Digest 8 (due: Monday, Oct. 28, 5:00 PM)**
 
 Complete the weekly digest using the following web form (UBIT login required):
 
-[https://forms.office.com/r/Lw6ZHkvF4n](https://forms.office.com/r/Lw6ZHkvF4n)
+[https://forms.office.com/r/i5YKX4JXr5](https://forms.office.com/r/i5YKX4JXr5)
+
 
 
 
