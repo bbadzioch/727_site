@@ -149,13 +149,24 @@ layout: lecture_notes
 
 <br/>
 
-#### **Weekly Digest 9 (due: Monday, Oct. 28, 5:00 PM)**
+
+## Week 11 (Nov. 4 - Nov. 10)
+
+<br/>
+
+#### **Lecture notes**
+
+{% include lecture_notes_table.html chapter="15. Weak Homotopy Type" %}
+{% include lecture_notes_table.html chapter="16. Weak Equivalences and Homology" %}
+{% include lecture_notes_table.html chapter="17. Hurewicz Theorem" %}
+
+<br/>
+
+#### **Weekly Digest 10 (due: Monday, Nov. 4, 5:00 PM)**
 
 Complete the weekly digest using the following web form (UBIT login required):
 
-[https://forms.office.com/r/i5YKX4JXr5](https://forms.office.com/r/i5YKX4JXr5)
-
-
+[https://forms.office.com/r/TvJVn7yYPs](https://forms.office.com/r/TvJVn7yYPs)
 
 
 <br/>
