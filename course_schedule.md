@@ -172,8 +172,7 @@ layout: lecture_notes
 
 {% include lecture_notes_table.html chapter="17. Hurewicz Theorem" %}
 {% include lecture_notes_table.html chapter="18. Spectral Sequences" %}
-{% include lecture_notes_table.html chapter="18. Spectral Sequences" %}
-{% include lecture_notes_table.html chapter="18. Spectral Sequence From a Filtration" %}
+{% include lecture_notes_table.html chapter="19. Spectral Sequence From a Filtration" %}
 
 <br/>
 
