@@ -164,7 +164,7 @@ layout: lecture_notes
 
 
 
-## Week 11 (Nov. 11 - Nov. 17)
+## Week 12 (Nov. 11 - Nov. 17)
 
 <br/>
 
