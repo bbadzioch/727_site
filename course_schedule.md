@@ -172,15 +172,30 @@ layout: lecture_notes
 
 {% include lecture_notes_table.html chapter="17. Hurewicz Theorem" %}
 {% include lecture_notes_table.html chapter="18. Spectral Sequences" %}
-{% include lecture_notes_table.html chapter="19. Spectral Sequence From a Filtration" %}
+
 
 <br/>
 
-#### **Weekly Digest 11 (due: Monday, Nov. 11, 5:00 PM)**
+
+
+
+## Week 13 (Nov. 18 - Nov. 24)
+
+<br/>
+
+#### **Lecture notes**
+
+{% include lecture_notes_table.html chapter="18. Spectral Sequences" %}
+{% include lecture_notes_table.html chapter="19. Spectral Sequence From a Filtration" %}
+{% include lecture_notes_table.html chapter="20. Serre Spectral Sequence" %}
+<br/>
+
+#### **Weekly Digest 12 (due: Monday, Nov. 18, 5:00 PM)**
 
 Complete the weekly digest using the following web form (UBIT login required):
 
-[hhttps://forms.office.com/r/SfNHJQrSAP](https://forms.office.com/r/SfNHJQrSAP)
+[https://forms.office.com/r/jNK3i1jUhk](https://forms.office.com/r/jNK3i1jUhk)
+
 
 
 <br/>
