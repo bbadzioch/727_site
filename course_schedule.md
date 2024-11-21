@@ -190,11 +190,25 @@ layout: lecture_notes
 {% include lecture_notes_table.html chapter="20. Serre Spectral Sequence" %}
 <br/>
 
-#### **Weekly Digest 12 (due: Monday, Nov. 18, 5:00 PM)**
+
+
+## Week 14 (Nov. 25 - Dec. 1)
+
+<br/>
+
+#### **Lecture notes**
+
+{% include lecture_notes_table.html chapter="20. Serre Spectral Sequence" %}
+{% include lecture_notes_table.html chapter="21. Serre Classes" %}
+
+
+<br/>
+
+#### **Weekly Digest 13 (due: Monday, Nov. 25, 5:00 PM)**
 
 Complete the weekly digest using the following web form (UBIT login required):
 
-[https://forms.office.com/r/jNK3i1jUhk](https://forms.office.com/r/jNK3i1jUhk)
+[https://forms.office.com/r/7rB6UJWbF3](https://forms.office.com/r/7rB6UJWbF3)
 
 
 
