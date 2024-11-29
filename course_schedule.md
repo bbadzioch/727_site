@@ -204,11 +204,24 @@ layout: lecture_notes
 
 <br/>
 
-#### **Weekly Digest 13 (due: Monday, Nov. 25, 5:00 PM)**
+
+## Week 15 (Dec. 2 - Dec. 7)
+
+<br/>
+
+#### **Lecture notes**
+
+{% include lecture_notes_table.html chapter="21. Serre Classes" %}
+{% include lecture_notes_table.html chapter="22. Cohomology via Homotopy" %}
+
+<br/>
+
+#### **Weekly Digest 14 (due: Monday, Dec. 2, 5:00 PM)**
 
 Complete the weekly digest using the following web form (UBIT login required):
 
-[https://forms.office.com/r/7rB6UJWbF3](https://forms.office.com/r/7rB6UJWbF3)
+[https://forms.office.com/r/ZGHTmZhNJJ](https://forms.office.com/r/ZGHTmZhNJJ)
+
 
 
 
