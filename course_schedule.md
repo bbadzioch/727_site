@@ -33,7 +33,7 @@ layout: lecture_notes
 <br/>
 
 
-#### **Homework 1 (due: Thursday, Sept. 19)**
+#### **Homework 1**
 
 <a href="/assets/homework/hw_1.pdf" markdown="0">Homework 1 problems.</a>
 
@@ -75,7 +75,7 @@ layout: lecture_notes
 
 <br/>
 
-#### **Homework 2 (due: Thursday, Oct. 3)**
+#### **Homework 2**
 
 <a href="/assets/homework/hw_2.pdf" markdown="0">Homework 2 problems.</a>
 
@@ -216,11 +216,10 @@ layout: lecture_notes
 
 <br/>
 
-#### **Weekly Digest 14 (due: Monday, Dec. 2, 5:00 PM)**
 
-Complete the weekly digest using the following web form (UBIT login required):
+#### **Homework 4**
 
-[https://forms.office.com/r/ZGHTmZhNJJ](https://forms.office.com/r/ZGHTmZhNJJ)
+<a href="/assets/homework/hw_4.pdf" markdown="0">Homework 4 problems.</a>
 
 
 
